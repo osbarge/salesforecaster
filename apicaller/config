@@ -1,0 +1,7 @@
+{
+    "apikey":"DARKSKY_API_KEY",
+    "lat":"LATITUDE",
+    "long":"LONGITUDE",
+    "time-unix":"TIME_IN_UNIX_FORMAT",
+    "optional-params":"?lang=es&units=si&exclude=currently"
+}

@@ -1,0 +1,133 @@
+Date;Year;Month;Day;Weekday;Holiday
+1/1/12;2012;1;1;Sunday;Anho Nuevo
+1/3/12;2012;3;1;Thursday;Dia de los Heroes de la Patria
+5/4/12;2012;4;5;Thursday;Jueves Santo (Semana Santa)
+6/4/12;2012;4;6;Friday;Viernes Santo (Semana Santa)
+8/4/12;2012;4;8;Sunday;Domingo de Resurreccion (Semana Santa)
+1/5/12;2012;5;1;Tuesday;Dia de los Trabajadores
+15/5/12;2012;5;15;Tuesday;Dia de la Independencia Nacional
+12/6/12;2012;6;12;Tuesday;Dia de la Paz del Chaco
+15/8/12;2012;8;15;Wednesday;Dia de la Fundacion de Asuncion
+29/9/12;2012;9;29;Saturday;Batalla de Boqueron
+8/12/12;2012;12;8;Saturday;Dia de la Virgen de Caacupe
+25/12/12;2012;12;25;Tuesday;Navidad
+1/1/13;2013;1;1;Tuesday;Anho Nuevo
+1/3/13;2013;3;1;Friday;Dia de los Heroes de la Patria
+28/3/13;2013;3;28;Thursday;Jueves Santo (Semana Santa)
+29/3/13;2013;3;29;Friday;Viernes Santo (Semana Santa)
+31/3/13;2013;3;31;Sunday;Domingo de Resurreccion (Semana Santa)
+1/5/13;2013;5;1;Wednesday;Dia de los Trabajadores
+15/5/13;2013;5;15;Wednesday;Dia de la Independencia Nacional
+12/6/13;2013;6;12;Wednesday;Dia de la Paz del Chaco
+15/8/13;2013;8;15;Thursday;Dia de la Fundacion de Asuncion
+29/9/13;2013;9;29;Sunday;Batalla de Boqueron
+8/12/13;2013;12;8;Sunday;Dia de la Virgen de Caacupe
+25/12/13;2013;12;25;Wednesday;Navidad
+1/1/14;2014;1;1;Wednesday;Anho Nuevo
+1/3/14;2014;3;1;Saturday;Dia de los Heroes de la Patria
+17/4/14;2014;4;17;Thursday;Jueves Santo (Semana Santa)
+18/4/14;2014;4;18;Friday;Viernes Santo (Semana Santa)
+20/4/14;2014;4;20;Sunday;Domingo de Resurreccion (Semana Santa)
+1/5/14;2014;5;1;Thursday;Dia de los Trabajadores
+15/5/14;2014;5;15;Thursday;Dia de la Independencia Nacional
+12/6/14;2014;6;12;Thursday;Dia de la Paz del Chaco
+15/8/14;2014;8;15;Friday;Dia de la Fundacion de Asuncion
+29/9/14;2014;9;29;Monday;Batalla de Boqueron
+8/12/14;2014;12;8;Monday;Dia de la Virgen de Caacupe
+25/12/14;2014;12;25;Thursday;Navidad
+1/1/15;2015;1;1;Thursday;Anho Nuevo
+1/3/15;2015;3;1;Sunday;Dia de los Heroes de la Patria
+2/4/15;2015;4;2;Thursday;Jueves Santo (Semana Santa)
+3/4/15;2015;4;3;Friday;Viernes Santo (Semana Santa)
+5/4/15;2015;4;5;Sunday;Domingo de Resurreccion (Semana Santa)
+1/5/15;2015;5;1;Friday;Dia de los Trabajadores
+15/5/15;2015;5;15;Friday;Dia de la Independencia Nacional
+12/6/15;2015;6;12;Friday;Dia de la Paz del Chaco
+15/8/15;2015;8;15;Saturday;Dia de la Fundacion de Asuncion
+29/9/15;2015;9;29;Tuesday;Batalla de Boqueron
+8/12/15;2015;12;8;Tuesday;Dia de la Virgen de Caacupe
+25/12/15;2015;12;25;Friday;Navidad
+1/1/16;2016;1;1;Friday;Anho Nuevo
+1/3/16;2016;3;1;Tuesday;Dia de los Heroes de la Patria
+24/3/16;2016;3;24;Thursday;Jueves Santo (Semana Santa)
+25/3/16;2016;3;25;Friday;Viernes Santo (Semana Santa)
+27/3/16;2016;3;27;Sunday;Domingo de Resurreccion (Semana Santa)
+1/5/16;2016;5;1;Sunday;Dia de los Trabajadores
+15/5/16;2016;5;15;Sunday;Dia de la Independencia Nacional
+12/6/16;2016;6;12;Sunday;Dia de la Paz del Chaco
+15/8/16;2016;8;15;Monday;Dia de la Fundacion de Asuncion
+29/9/16;2016;9;29;Thursday;Batalla de Boqueron
+8/12/16;2016;12;8;Thursday;Dia de la Virgen de Caacupe
+25/12/16;2016;12;25;Sunday;Navidad
+1/1/17;2017;1;1;Sunday;Anho Nuevo
+1/3/17;2017;3;1;Wednesday;Dia de los Heroes de la Patria
+13/4/17;2017;4;13;Thursday;Jueves Santo (Semana Santa)
+14/4/17;2017;4;14;Friday;Viernes Santo (Semana Santa)
+16/4/17;2017;4;16;Sunday;Domingo de Resurreccion (Semana Santa)
+1/5/17;2017;5;1;Monday;Dia de los Trabajadores
+15/5/17;2017;5;15;Monday;Dia de la Independencia Nacional
+12/6/17;2017;6;12;Monday;Dia de la Paz del Chaco
+15/8/17;2017;8;15;Tuesday;Dia de la Fundacion de Asuncion
+29/9/17;2017;9;29;Friday;Batalla de Boqueron
+8/12/17;2017;12;8;Friday;Dia de la Virgen de Caacupe
+25/12/17;2017;12;25;Monday;Navidad
+1/1/18;2018;1;1;Monday;Anho Nuevo
+1/3/18;2018;3;1;Thursday;Dia de los Heroes de la Patria
+29/3/18;2018;3;29;Thursday;Jueves Santo (Semana Santa)
+30/3/18;2018;3;30;Friday;Viernes Santo (Semana Santa)
+1/3/18;2018;3;1;Thursday;Domingo de Resurreccion (Semana Santa)
+1/5/18;2018;5;1;Tuesday;Dia de los Trabajadores
+15/5/18;2018;5;15;Tuesday;Dia de la Independencia Nacional
+12/6/18;2018;6;12;Tuesday;Dia de la Paz del Chaco
+15/8/18;2018;8;15;Wednesday;Dia de la Fundacion de Asuncion
+29/9/18;2018;9;29;Saturday;Batalla de Boqueron
+8/12/18;2018;12;8;Saturday;Dia de la Virgen de Caacupe
+25/12/18;2018;12;25;Tuesday;Navidad
+1/1/19;2019;1;1;Tuesday;Anho Nuevo
+1/3/19;2019;3;1;Friday;Dia de los Heroes de la Patria
+18/4/19;2019;4;18;Thursday;Jueves Santo (Semana Santa)
+19/4/19;2019;4;19;Friday;Viernes Santo (Semana Santa)
+21/4/19;2019;4;21;Sunday;Domingo de Resurreccion (Semana Santa)
+1/5/19;2019;5;1;Wednesday;Dia de los Trabajadores
+15/5/19;2019;5;15;Wednesday;Dia de la Independencia Nacional
+12/6/19;2019;6;12;Wednesday;Dia de la Paz del Chaco
+15/8/19;2019;8;15;Thursday;Dia de la Fundacion de Asuncion
+29/9/19;2019;9;29;Sunday;Batalla de Boqueron
+8/12/19;2019;12;8;Sunday;Dia de la Virgen de Caacupe
+25/12/19;2019;12;25;Wednesday;Navidad
+1/1/20;2020;1;1;Wednesday;Anho Nuevo
+1/3/20;2020;3;1;Sunday;Dia de los Heroes de la Patria
+9/4/20;2020;4;9;Thursday;Jueves Santo (Semana Santa)
+10/4/20;2020;4;10;Friday;Viernes Santo (Semana Santa)
+12/4/20;2020;4;12;Sunday;Domingo de Resurreccion (Semana Santa)
+1/5/20;2020;5;1;Friday;Dia de los Trabajadores
+15/5/20;2020;5;15;Friday;Dia de la Independencia Nacional
+12/6/20;2020;6;12;Friday;Dia de la Paz del Chaco
+15/8/20;2020;8;15;Saturday;Dia de la Fundacion de Asuncion
+29/9/20;2020;9;29;Tuesday;Batalla de Boqueron
+8/12/20;2020;12;8;Tuesday;Dia de la Virgen de Caacupe
+25/12/20;2020;12;25;Friday;Navidad
+1/1/21;2021;1;1;Friday;Anho Nuevo
+1/3/21;2021;3;1;Monday;Dia de los Heroes de la Patria
+1/4/21;2021;4;1;Thursday;Jueves Santo (Semana Santa)
+2/4/21;2021;4;2;Friday;Viernes Santo (Semana Santa)
+4/4/21;2021;4;4;Sunday;Domingo de Resurreccion (Semana Santa)
+1/5/21;2021;5;1;Saturday;Dia de los Trabajadores
+15/5/21;2021;5;15;Saturday;Dia de la Independencia Nacional
+12/6/21;2021;6;12;Saturday;Dia de la Paz del Chaco
+15/8/21;2021;8;15;Sunday;Dia de la Fundacion de Asuncion
+29/9/21;2021;9;29;Wednesday;Batalla de Boqueron
+8/12/21;2021;12;8;Wednesday;Dia de la Virgen de Caacupe
+25/12/21;2021;12;25;Saturday;Navidad
+1/1/22;2022;1;1;Saturday;Anho Nuevo
+1/3/22;2022;3;1;Tuesday;Dia de los Heroes de la Patria
+14/4/22;2022;4;14;Thursday;Jueves Santo (Semana Santa)
+15/4/22;2022;4;15;Friday;Viernes Santo (Semana Santa)
+17/4/22;2022;4;17;Sunday;Domingo de Resurreccion (Semana Santa)
+1/5/22;2022;5;1;Sunday;Dia de los Trabajadores
+15/5/22;2022;5;15;Sunday;Dia de la Independencia Nacional
+12/6/22;2022;6;12;Sunday;Dia de la Paz del Chaco
+15/8/22;2022;8;15;Monday;Dia de la Fundacion de Asuncion
+29/9/22;2022;9;29;Thursday;Batalla de Boqueron
+8/12/22;2022;12;8;Thursday;Dia de la Virgen de Caacupe
+25/12/22;2022;12;25;Sunday;Navidad

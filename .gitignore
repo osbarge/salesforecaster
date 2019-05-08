@@ -1,0 +1,8 @@
+.idea/**
+.vscode/**
+.ipynb_checkpoints/
+environment.yml
+.sfdx
+exploracion.ipynb
+prepare_weather_data.ipynb
+.DS_Store

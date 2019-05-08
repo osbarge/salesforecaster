@@ -1,0 +1,7 @@
+Time Machine Request Structure:
+https://api.darksky.net/forecast/[key]/[latitude],[longitude],[time]
+        
+
+Sample Request:
+https://api.darksky.net/forecast/70039987fake111111key9d3a593/-25.271052,-57.584116,1483257600?lang=es&units=si&exclude=currently
+
