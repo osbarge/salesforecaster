@@ -25,7 +25,7 @@ data/
     > dataset of public holidays
   
   - historical_weather_data.csv
-    > past weather dataset
+    > historical weather data for Asuncion city (Paraguay)
 
 
 
